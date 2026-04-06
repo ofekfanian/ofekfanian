@@ -1,4 +1,4 @@
-# Hi, I'm Ofek  👋
+# Hi, I'm Ofek Fanian 👋
 
 🎓 2nd year Computer Science student @ Afeka College of Engineering
 
@@ -24,6 +24,17 @@
 Built with Kotlin + Firebase | Android
 
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ofekfanian/Hunter)
+
+---
+
+## 🖥️ C Programming Projects
+
+| Project | Description |
+|---|---|
+| [Bulls & Hits](https://github.com/ofekfanian/c-bulls-and-hits) | Command-line guessing game |
+| [String Utils](https://github.com/ofekfanian/c-string-utils) | Matrix border sum, strcat and strstr |
+| [Text Compression](https://github.com/ofekfanian/c-text-compression) | Text compression using unique word indexing |
+| [Linked List & Bits](https://github.com/ofekfanian/c-linked-list-bits) | Linked list, file I/O, sorting and bit manipulation |
 
 ---
 
