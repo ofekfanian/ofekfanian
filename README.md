@@ -1,7 +1,6 @@
-# Hi, I'm Ofek  👋
+# Hi, I'm Ofek 👋
 
-🎓 2nd year Computer Science student @ Afeka College of Engineering
-
+🎓 2nd year Computer Science student @ Afeka College of Engineering  
 💻 Passionate about software development, always learning and building new things
 
 ---
@@ -18,12 +17,17 @@
 
 ## 📌 Featured Projects
 
-### 🔫 Hunter
-> A CRM app for junior developers tracking their job search journey
-
+### Hunter
+A CRM app for junior developers tracking their job search journey  
 Built with Kotlin + Firebase | Android
 
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ofekfanian/Hunter)
+
+### StudentRun
+An Android endless runner game built as a university assignment  
+Built with Kotlin | Android
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ofekfanian/StudentRun)
 
 ---
 
@@ -37,6 +41,7 @@ Built with Kotlin + Firebase | Android
 | [Linked List & Bits](https://github.com/ofekfanian/c-linked-list-bits) | Linked list, file I/O, sorting and bit manipulation |
 
 ---
+
 ## ☕ Java Projects
 
 | Project | Description |
@@ -44,6 +49,7 @@ Built with Kotlin + Firebase | Android
 | [Java College System](https://github.com/ofekfanian/java-college-system) | OOP college management system with inheritance, exceptions and file I/O |
 
 ---
+
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofek-fanian)
