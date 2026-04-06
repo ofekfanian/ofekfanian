@@ -1,4 +1,4 @@
-# Hi, I'm Ofek Fanian 👋
+# Hi, I'm Ofek  👋
 
 🎓 2nd year Computer Science student @ Afeka College of Engineering
 
@@ -37,7 +37,13 @@ Built with Kotlin + Firebase | Android
 | [Linked List & Bits](https://github.com/ofekfanian/c-linked-list-bits) | Linked list, file I/O, sorting and bit manipulation |
 
 ---
+## ☕ Java Projects
 
+| Project | Description |
+|---|---|
+| [Java College System](https://github.com/ofekfanian/java-college-system) | OOP college management system with inheritance, exceptions and file I/O |
+
+---
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofek-fanian)
