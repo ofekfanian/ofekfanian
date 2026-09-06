@@ -1,4 +1,4 @@
-# Hi, I'm Ofek 👋
+# Hey, I'm Ofek 👋
 
 🎓 2nd year Computer Science student @ Afeka College of Engineering  
 💻 Passionate about software development, always learning and building new things
