@@ -12,6 +12,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ---
@@ -35,6 +37,15 @@ An iOS card game built as a university assignment
 Built with Swift | UIKit
 
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ofekfanian/CardGame)
+
+---
+
+## Game Development Projects
+
+| Project | Description |
+|---|---|
+| [Bank Heist](https://github.com/ofekfanian/bank-heist) | GTA-style heist game in Unity (C#, URP): play as a Robber, Cop or Bystander, command an AI squad, rob a bank vault and escape in a getaway car. Final project, with video |
+| [Game Development Course](https://github.com/ofekfanian/game-development-course) | Unity coursework, including a procedurally generated fairytale village with a playable character, coins, keys and interiors |
 
 ---
 
